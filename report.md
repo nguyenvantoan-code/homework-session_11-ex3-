@@ -3,7 +3,7 @@
 - **Học viên:** Nguyễn Văn Toàn
 - **Môn học:** CI/CD & DevOps Automation
 - **Bài thực hành:** Bài 3 - Session 11: Tối ưu tốc độ CI bằng Gradle Dependency Caching
-- **Kho lưu trữ GitHub:** [https://github.com/nguyenvantoan-code/homework-session_11-ex3](https://github.com/nguyenvantoan-code/homework-session_11-ex3)
+- **Kho lưu trữ GitHub:** [https://github.com/nguyenvantoan-code/homework-session_11-ex3-](https://github.com/nguyenvantoan-code/homework-session_11-ex3-)
 
 ---
 
